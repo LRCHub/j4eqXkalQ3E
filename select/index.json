@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Dear…",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2025-12-07T12:05:26.249796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear Reader",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Dear_Reader_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Drunk Me",
+      "artist": "Chad Brownlee",
+      "has_synced": true,
+      "path": "select/02_Dear_Drunk_Me_Chad_Brownlee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Rodeo",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/03_Dear_Rodeo_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Today",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/04_Dear_Today_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear God",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/05_Dear_God_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear Santa",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/06_Dear_Santa_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear Santa",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/07_Dear_Santa_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Santa (English Ver.)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/08_Dear_Santa_(English_Ver.)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear. Mom",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_Dear._Mom_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sorry (Dear. Daddy)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/10_Sorry_(Dear._Daddy)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear God 2.0",
+      "artist": "The Roots feat. Monsters Of Folk",
+      "has_synced": true,
+      "path": "select/11_Dear_God_2.0_The_Roots_feat._Monsters_Of_Folk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dear God 2.0 (Feat. Monsters Of Folk)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/12_Dear_God_2.0_(Feat._Monsters_Of_Folk)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/13_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/14_Dear_Mama_2Pac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dear Old Nicki",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/15_Dear_Old_Nicki_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When the Party Is Over, I Miss My Dear Porn Star",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/16_When_the_Party_Is_Over,_I_Miss_My_Dear_Porn_Star_My_Little_Airport.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear…",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_Dear..._西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dear…",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_Dear..._西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dear…",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_Dear..._西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dear…",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_Dear..._西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Dear・・・",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_Dear・・・_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Dear...",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_Dear..._西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Dear・・・",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_Dear・・・_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Dear",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_Dear_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Dear Bride",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_Dear_Bride_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Dear Bride",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_Dear_Bride_西野_カナ.txt"
+    }
+  ]
+}
